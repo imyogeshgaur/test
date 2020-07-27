@@ -5,3 +5,13 @@
 😂🤣😂😄
 
 ![alt text](images/first_image.jpg)
+
+``` C++
+#include<iostram>
+int main()
+{
+   cout<<"Hello World ";
+   return0;
+}
+```
+
